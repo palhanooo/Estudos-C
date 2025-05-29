@@ -27,7 +27,7 @@ int main() {
 ## Create a program that asks for a value in degrees Fahrenheit and prints
 the corresponding value in degrees Celsius on the video using the formulas
 
-```
+```c
 25)
 #include <stdio.h>
 
@@ -42,7 +42,7 @@ int main() {
 ```
 ##Make a program that reads the price of a product and inflates that price by 10% if it is less than 100 and by 20% if it is greater than or equal to 100.
 
-```
+```c
 27)
 #include <stdio.h>
 
@@ -64,7 +64,7 @@ printf("what is the price of the product?\n");
 
 ##a program that requests the total amount spent by a customer in a store, prints the payment options, requests the desired option and prints the total amount of the installments
 
-```
+```c
 int main(void) {
   float price;
   int option, installment;
